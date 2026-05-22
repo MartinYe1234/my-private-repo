@@ -1,5 +1,5 @@
 ---
-name: test-skill-2!!@!#!@$!@
+name: test-skill-3
 description: test skill with too long description 
 ---
 
